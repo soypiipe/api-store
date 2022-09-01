@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
@@ -75,4 +74,3 @@ Nest is [MIT licensed](LICENSE).
 =======
 # api-store
 Api desarrollada como practica para el curso de Platzi BackEN con NestJs
->>>>>>> 3680b83b732705bf1e7885430e3a650a2393792d
